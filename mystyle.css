@@ -1,0 +1,90 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+}
+.jumbotron{
+	background-color:gainsboro;
+	height: 600px;
+	margin: 0 auto;
+	padding: 0 auto;
+	border-radius: 0;
+}
+.container{
+	height:475px;
+	background-image: url(city.jpg);
+	background-size:100% 100%;
+	box-shadow:0 0 20px #202020;
+	
+}
+.main{
+	padding: 0% 10%;
+	height: 475px;
+	opacity:0.5;
+	background-color:#193866;
+	font-family: sans-serif;
+}
+h4{
+	text-decoration: underline;
+	text-decoration-color: blue;
+	color: #fff;
+	
+}
+.btn-small{
+	color: #fff;
+}
+label{
+	padding-left: 15px;
+	font-size:6px;
+	font-weight:100;
+	color: gainsboro;
+}
+#usr{
+	margin-left: 2%;
+	border: none;
+	width: 90%;
+	border-radius: 60px;
+}
+#pwd{
+	margin-left: 2%;
+	width: 90%;
+	border: none;
+	border-radius: 60px;
+}
+i.check{
+	color:#fff;
+	background-color:blue;
+	font-size:12px;
+	margin-left: 3%;
+}
+a span{
+	padding-left: 2%;
+	color: #fff;
+	font-size:14px;
+	font-weight: bold;
+}
+.btn-primary{
+	margin-top: 2%;
+	width: 90%;
+	margin-left:2%;
+	border: none;
+	color: #fff;
+	border-radius: 60px;
+	text-align: center;
+	padding:1em;
+	font-size: 12px;
+}
+hr{
+	width: 90%;
+	margin-left:1%;
+	margin-top: 10%;
+	text-align: center;
+	background-color: gainsboro;
+	
+}
+.footer{
+	color: darkgray;
+	font-size: 12px;
+	text-align: center;
+	padding-bottom: 2.2%;
+}
+	
